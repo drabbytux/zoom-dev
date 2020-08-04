@@ -1,5 +1,5 @@
 /**
- * Black Box - First C++ Practice
+ * Black Box - First C++ Practice, Initial release
  * Brief: a function acting as a black box — someone using the function must be able to tell what the function does by its name, parameters and return type, but they do not have to care how the task is accomplished.
  * @author David Little
  * @version 1.0 August 20, 2020
