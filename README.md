@@ -16,7 +16,9 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 - [x] Development Environment
 - [x] Variables and Data Types
 - [x] Functions
+> https://github.com/drabbytux/zoom-dev/blob/master/module-1/basic-variable-usage.cpp
 - [x] Conditionals and Iteration
+> https://github.com/drabbytux/zoom-dev/blob/master/module-1/conditionals-and-iteration.cpp
 - [x] Introduction to C++: Recommended Reading
 - [ ] Putting it All Together
 - [ ] First C++ Practice
