@@ -62,6 +62,9 @@ int main()
   // Test 3 - FOr loop
   forLoopExample();
   cout << "\n--- Test three complete ---\n" << endl;
-
+  cout.fill('*');
+  cout.width(30);
+  cout << left << "Test four complete" << endl;
+  
   return 0;
 }
