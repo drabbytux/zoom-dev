@@ -24,11 +24,13 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 > - Read Chapters 1 through 5, Aug 3 2020.
 
 > :book: Chapters 2-3, 4.1-4.6, 5,1-5.9, 6.1-6.5 http://greenteapress.com/thinkcpp/thinkCScpp.pdf
-> - Read nothing yet.
+> - Nothing read yet.
 
-- [ ] Putting it All Together
-- [ ] First C++ Practice
-- [ ] Important Terminology
+- [x] Putting it All Together
+- [x] First C++ Practice
+- [x] Important Terminology
+
+:sparkle: `Above Completed Tuesday, August 4, 2020`
 
 ### Pure Programming Puzzles
 - [ ] Guided Reading: Pure Puzzles
