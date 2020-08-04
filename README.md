@@ -1,7 +1,7 @@
 # Zoom Dev Work
 ### David Little
 
-## Module 1 Introduction
+## Module 1 - Introduction
 
 ### Introduction to Problem Solving
 - [x] 1a) Guided Reading: Strategies for Problem Solving (submitted via form)
@@ -10,10 +10,9 @@ Source: https://docs.google.com/document/d/1VsHpoFxvpFXTHQsJs0i0TyJmhUGHA4XvQMAg
 - [x] 1b) What happens when you don't?
 Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe0js_Utc
 
-> :sparkle: Above Completed Monday, August 3, 2020
+:sparkle: `Above Completed Monday, August 3, 2020`
 
 ### Introduction to C++
-
 - [x] Development Environment
 - [ ] Variables and Data Types
 - [ ] Functions
@@ -24,7 +23,24 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 - [ ] Important Terminology
 
 ### Pure Programming Puzzles
-
 - [ ] Guided Reading: Pure Puzzles
 - [ ] The Shape of Things
 - [ ] Word Count
+
+## Module 2 – Solving Problems with Arrays
+- [ ] Array Basics
+- [ ] Array Trickiness
+- [ ] Guided Reading: Review of Array Fundamentals
+- [ ] Array Fundamentals Practice
+- [ ] Partially Empty Arrays
+- [ ] Guided Reading: Solving Problems with Arrays
+- [ ] Struct Basics
+- [ ] Passing By Reference
+- [ ] Explain the Output – Structs
+- [ ] Arrays of Structs
+- [ ] Struct and Array Code Example: Clue Combat
+- [ ] Time for Struct Practice
+- [ ] Guided Reading: Non-scalar and Multidimensional Arrays, When to Use Arrays
+- [ ] Course Struct
+- [ ] Dominoes
+- [ ] Is an Array Needed?
