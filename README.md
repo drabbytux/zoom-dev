@@ -22,8 +22,10 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 - [ ] Introduction to C++: Recommended Reading
 > :book: (Chapters 1-12, 14) https://rooksguide.files.wordpress.com/2013/12/rooks-guide-isbn-version.pdf
 > - Read Chapters 1 through 5, Aug 3 2020.
+
 > :book: Chapters 2-3, 4.1-4.6, 5,1-5.9, 6.1-6.5 http://greenteapress.com/thinkcpp/thinkCScpp.pdf
 > - Read nothing yet.
+
 - [ ] Putting it All Together
 - [ ] First C++ Practice
 - [ ] Important Terminology
