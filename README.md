@@ -14,10 +14,10 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 
 ### Introduction to C++
 - [x] Development Environment
-- [ ] Variables and Data Types
-- [ ] Functions
-- [ ] Conditionals and Iteration
-- [ ] Introduction to C++: Recommended Reading
+- [x] Variables and Data Types
+- [x] Functions
+- [x] Conditionals and Iteration
+- [x] Introduction to C++: Recommended Reading
 - [ ] Putting it All Together
 - [ ] First C++ Practice
 - [ ] Important Terminology
