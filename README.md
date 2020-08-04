@@ -10,7 +10,7 @@ Source: https://docs.google.com/document/d/1VsHpoFxvpFXTHQsJs0i0TyJmhUGHA4XvQMAg
 - [x] 1b) What happens when you don't?
 Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe0js_Utc
 
-`^---------- Completed August 3, 2020 ----------^`
+> :sparkle: Above Completed Monday, August 3, 2020
 
 ### Introduction to C++
 
@@ -23,7 +23,7 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 - [ ] First C++ Practice
 - [ ] Important Terminology
 
-###Pure Programming Puzzles
+### Pure Programming Puzzles
 
 - [ ] Guided Reading: Pure Puzzles
 - [ ] The Shape of Things
