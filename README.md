@@ -21,7 +21,8 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 > https://github.com/drabbytux/zoom-dev/blob/master/module-1/conditionals-and-iteration.cpp
 - [ ] Introduction to C++: Recommended Reading
 > :book: (Chapters 1-12, 14) https://rooksguide.files.wordpress.com/2013/12/rooks-guide-isbn-version.pdf
-> - Read Chapters 1 through 5, Aug 3 2020.
+> - Read Chapters 1 through 5, Aug 3, 2020.
+> - Read Chapters 6 through 10, Aug 4, 2020
 
 > :book: Chapters 2-3, 4.1-4.6, 5,1-5.9, 6.1-6.5 http://greenteapress.com/thinkcpp/thinkCScpp.pdf
 > - Nothing read yet.
@@ -33,13 +34,16 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 :sparkle: `Above Completed Tuesday, August 4, 2020`
 
 ### Pure Programming Puzzles
-- [ ] Guided Reading: Pure Puzzles
-- [ ] The Shape of Things
-- [ ] Word Count
+- [x] Guided Reading: Pure Puzzles
+- [x] The Shape of Things
+- [x] Word Count
 
 ## Module 2 – Solving Problems with Arrays
-- [ ] Array Basics
-- [ ] Array Trickiness
+- [x] Array Basics
+- [x] Array Trickiness
+
+:sparkle: `Above Completed Wednesday, August 5, 2020`
+
 - [ ] Guided Reading: Review of Array Fundamentals
 - [ ] Array Fundamentals Practice
 - [ ] Partially Empty Arrays
