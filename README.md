@@ -35,6 +35,7 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 
 ### Pure Programming Puzzles
 - [x] Guided Reading: Pure Puzzles
+Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUuTjv4lWs/edit?usp=sharing
 - [x] The Shape of Things
 - [x] Word Count
 
