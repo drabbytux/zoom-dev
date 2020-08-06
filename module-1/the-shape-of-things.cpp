@@ -25,7 +25,7 @@ char getCorrectChar(int charItem){
         return '\n'; 
     break;
     default:
-      return '-';
+      return ' ';
   }
 }
 
