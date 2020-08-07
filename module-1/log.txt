@@ -1,0 +1,66 @@
+### Test 1: using three words of equal length, with two spaces ###############
+davidlittle@Davids-MacBook-Pro module-1 (wordcount-module-1c) $ ./word-count
+Enter some words, please: test test test
+
+There were 3 words in total.
+        - The longest word was 4 character(s).
+        - The shortest word was 4 character(s).
+        - The most vowels used in a word were 1 vowel(s).
+
+
+### Test 2: using one word, no spaces ###############
+davidlittle@Davids-MacBook-Pro module-1 (wordcount-module-1c) $ ./word-count
+Enter some words, please: test
+
+There were 1 words in total.
+        - The longest word was 4 character(s).
+        - The shortest word was 4 character(s).
+        - The most vowels used in a word were 1 vowel(s).
+
+
+### Test 3: Simply hitting enter, no words or spaces entered ###############
+davidlittle@Davids-MacBook-Pro module-1 (wordcount-module-1c) $ ./word-count
+Enter some words, please: 
+
+You didn't enter any words. That wasn't any fun.
+
+
+### Test 4: Using two words of equal size with 11 spaces seperating them ###############
+davidlittle@Davids-MacBook-Pro module-1 (wordcount-module-1c) $ ./word-count
+Enter some words, please: test           test
+
+There were 2 words in total.
+        - The longest word was 4 character(s).
+        - The shortest word was 4 character(s).
+        - The most vowels used in a word were 1 vowel(s).
+
+
+### Test 5: Using three words, one with non-alphabetic characters. two spaces ###############
+davidlittle@Davids-MacBook-Pro module-1 (wordcount-module-1c) $ ./word-count
+Enter some words, please: test 98iakdsj test
+
+There were 3 words in total.
+        - The longest word was 8 character(s).
+        - The shortest word was 4 character(s).
+        - The most vowels used in a word were 2 vowel(s).
+FYI - Some words contained non-alphabetic characters but were included.
+
+
+### Test 6: A monkey sitting down and hitting the keyboard repeatedly.  ###############
+davidlittle@Davids-MacBook-Pro module-1 (wordcount-module-1c) $ ./word-count
+Enter some words, please: ][\[]\[]{{-  -}}^[[D^[[D^[[D^[[D\]{{-  -}}^[[D^[[D^[[D^[[D]\{{-  -}}^[[D^[[D^[[D^[[D[
+
+There were 4 words in total.
+        - The longest word was 20 character(s).
+        - The shortest word was 11 character(s).
+        - The most vowels used in a word were 0 vowel(s).
+FYI - Some words contained non-alphabetic characters but were included.
+
+
+### Test 7: Five spaces are entered, no other characters.  ###############
+davidlittle@Davids-MacBook-Pro module-1 (wordcount-module-1c) $ ./word-count
+Enter some words, please:    
+
+You didn't enter any words. That wasn't any fun.
+
+davidlittle@Davids-MacBook-Pro module-1 (wordcount-module-1c) $ 
