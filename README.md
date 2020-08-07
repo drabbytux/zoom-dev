@@ -43,7 +43,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [x] Array Basics
 - [x] Array Trickiness
 
-:sparkle: `Above Completed Wednesday, August 5, 2020`
+:sparkle: `Above Completed Wednesday, August 5-6, 2020`
 
 - [ ] Guided Reading: Review of Array Fundamentals
 - [ ] Array Fundamentals Practice
