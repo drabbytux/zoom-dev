@@ -46,7 +46,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 ## Module 2 – Solving Problems with Arrays
 - [x] Array Basics
-- [x] Array Trickiness
+- [x] :pencil2: Array Trickiness
 - [x] Guided Reading: Review of Array Fundamentals
 
 :sparkle: `Above Completed Friday, August 7, 2020, WK1`
@@ -64,3 +64,23 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [ ] Course Struct
 - [ ] Dominoes
 - [ ] Is an Array Needed?
+
+
+## Module 3 – Solving Problems with Dynamic Memory
+
+- [ ] Stack and Heap
+- [ ] :pencil2:	Pointers and Walk-In Closets
+- [ ] Pointers
+- [ ] :pencil2:	Pointers Quiz
+References Are 'Nice' Pointers
+- [ ] Guided Reading: Pointer Fundamentals and Benefits
+- [ ] Pointers and Box-and-Arrow Diagrams
+- [ ] Explain the Output – Pointers
+- [ ] Allocating Memory on the Heap
+- [ ] :pencil2:	Pointers and Walk-In Closets II
+- [ ] Heap-Allocated Memory and Box-and-Arrow Diagrams
+- [ ] Null and Delete
+- [ ] Example Allocating Arrays and Structs Statically and Dynamically
+- [ ] Soda
+- [ ] Songs
+- [ ] Guided Reading: Solving Pointer Problems
