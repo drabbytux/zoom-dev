@@ -10,7 +10,7 @@ Source: https://docs.google.com/document/d/1VsHpoFxvpFXTHQsJs0i0TyJmhUGHA4XvQMAg
 - [x] 1b) What happens when you don't?
 Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe0js_Utc
 
-:sparkle: `Above Completed Monday, August 3, 2020`
+:sparkle: `Above Completed Monday, August 3, 2020, WK1`
 
 ### Introduction to C++
 - [x] Development Environment
@@ -32,24 +32,24 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 - [x] First C++ Practice
 - [x] Important Terminology
 
-:sparkle: `Above Completed Tuesday, August 4, 2020`
+:sparkle: `Above Completed Tuesday, August 4, 2020, WK1`
 
 ### Pure Programming Puzzles
 - [x] Guided Reading: Pure Puzzles
 Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUuTjv4lWs/edit?usp=sharing
 - [x] The Shape of Things
 
-:sparkle: `Above Completed Wednesday, August 5, 2020`
+:sparkle: `Above Completed Wednesday, August 5, 2020, WK1`
 - [x] Word Count
 
-:sparkle: `Above Completed Wednesday, August 6, 2020`
+:sparkle: `Above Completed Thursday, August 6, 2020, WK1`
 
 ## Module 2 – Solving Problems with Arrays
 - [x] Array Basics
 - [x] Array Trickiness
 - [x] Guided Reading: Review of Array Fundamentals
 
-:sparkle: `Above Completed Wednesday, August 7, 2020`
+:sparkle: `Above Completed Friday, August 7, 2020, WK1`
 
 - [ ] Array Fundamentals Practice
 - [ ] Partially Empty Arrays
