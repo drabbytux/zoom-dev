@@ -52,13 +52,19 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 :sparkle: `Above Completed Friday, August 7, 2020, WK1`
 
 - [x] Array Fundamentals Practice
-- [ ] Partially Empty Arrays
-- [ ] Guided Reading: Solving Problems with Arrays
-- [ ] Struct Basics
-- [ ] Passing By Reference
-- [ ] Explain the Output – Structs
-- [ ] Arrays of Structs
+- [x] Partially Empty Arrays
+- [x] Guided Reading: Solving Problems with Arrays
+- [x] Struct Basics
+
+:sparkle: `Above Completed Monday, August 10, 2020, WK2`
+
+- [x] Passing By Reference
+- [x] Explain the Output – Structs
+- [x] Arrays of Structs
 - [ ] Struct and Array Code Example: Clue Combat
+
+:sparkle: `Above Completed Tuesday, August 11, 2020, WK2`
+
 - [ ] Time for Struct Practice
 - [ ] Guided Reading: Non-scalar and Multidimensional Arrays, When to Use Arrays
 - [ ] Course Struct
