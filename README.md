@@ -61,7 +61,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [x] Passing By Reference
 - [x] Explain the Output – Structs
 - [x] Arrays of Structs
-- [ ] Struct and Array Code Example: Clue Combat
+- [x] Struct and Array Code Example: Clue Combat
 
 :sparkle: `Above Completed Tuesday, August 11, 2020, WK2`
 
