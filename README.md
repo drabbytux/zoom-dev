@@ -51,7 +51,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Friday, August 7, 2020, WK1`
 
-- [ ] Array Fundamentals Practice
+- [x] Array Fundamentals Practice
 - [ ] Partially Empty Arrays
 - [ ] Guided Reading: Solving Problems with Arrays
 - [ ] Struct Basics
