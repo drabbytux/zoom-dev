@@ -65,8 +65,8 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Tuesday, August 11, 2020, WK2`
 
-- [ ] Time for Struct Practice
-- [ ] Guided Reading: Non-scalar and Multidimensional Arrays, When to Use Arrays
+- [x] Time for Struct Practice
+- [x] Guided Reading: Non-scalar and Multidimensional Arrays, When to Use Arrays
 - [ ] Course Struct
 - [ ] Dominoes
 - [ ] Is an Array Needed?
