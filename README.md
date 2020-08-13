@@ -72,17 +72,22 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Wednesday, August 12, 2020, WK2`
 
-- [ ] Is an Array Needed?
+- [x] Is an Array Needed?
 
 
 ## Module 3 – Solving Problems with Dynamic Memory
 
-- [ ] Stack and Heap
-- [ ] :pencil2:	Pointers and Walk-In Closets
-- [ ] Pointers
-- [ ] :pencil2:	Pointers Quiz
-References Are 'Nice' Pointers
-- [ ] Guided Reading: Pointer Fundamentals and Benefits
+- [x] Stack and Heap
+- [x] :pencil2:	Pointers and Walk-In Closets
+- [x] Pointers
+> :book: (Chapter 19) https://rooksguide.files.wordpress.com/2013/12/rooks-guide-isbn-version.pdf
+> - Read Chapter 19 (*Completed*)
+- [x] :pencil2:	Pointers Quiz
+- [x] References Are 'Nice' Pointers
+- [x] Guided Reading: Pointer Fundamentals and Benefits
+
+:sparkle: `Above Completed Thursday, August 13, 2020, WK2`
+
 - [ ] Pointers and Box-and-Arrow Diagrams
 - [ ] Explain the Output – Pointers
 - [ ] Allocating Memory on the Heap
