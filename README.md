@@ -88,6 +88,8 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Thursday, August 13, 2020, WK2`
 
+> NOTE: Friday-Monday days off (14-17)
+
 - [ ] Pointers and Box-and-Arrow Diagrams
 - [ ] Explain the Output – Pointers
 - [ ] Allocating Memory on the Heap
