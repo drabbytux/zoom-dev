@@ -19,7 +19,7 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 > https://github.com/drabbytux/zoom-dev/blob/master/module-1/basic-variable-usage.cpp
 - [x] Conditionals and Iteration
 > https://github.com/drabbytux/zoom-dev/blob/master/module-1/conditionals-and-iteration.cpp
-- [ ] Introduction to C++: Recommended Reading
+- [x] Introduction to C++: Recommended Reading
 > :book: (Chapters 1-12, 14) https://rooksguide.files.wordpress.com/2013/12/rooks-guide-isbn-version.pdf
 > - Read Chapters 1 through 5, Aug 3, 2020.
 > - Read Chapters 6 through 10, Aug 4, 2020
@@ -27,6 +27,8 @@ Source: https://docs.google.com/document/d/13DBWD5muvPDOP5nPoIJ1RkwSt-vVH4LzfoCe
 
 > :book: Chapters 2-3, 4.1-4.6, 5,1-5.9, 6.1-6.5 http://greenteapress.com/thinkcpp/thinkCScpp.pdf
 > - Read Chapters 2-3 Aug 7, 2020
+> - Read Chapters 4.1-4.6, 5,1-5.9 Aug 17, 2020
+> - Read Chapters 6.1-6.5 Aug 18, 2020
 
 - [x] Putting it All Together
 - [x] First C++ Practice
@@ -90,11 +92,14 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 > NOTE: Friday-Monday days off (14-17)
 
-- [ ] Pointers and Box-and-Arrow Diagrams
-- [ ] Explain the Output – Pointers
-- [ ] Allocating Memory on the Heap
-- [ ] :pencil2:	Pointers and Walk-In Closets II
-- [ ] Heap-Allocated Memory and Box-and-Arrow Diagrams
+- [x] Pointers and Box-and-Arrow Diagrams
+- [x] Explain the Output – Pointers
+- [x] Allocating Memory on the Heap
+- [x] :pencil2:	Pointers and Walk-In Closets II
+- [x] Heap-Allocated Memory and Box-and-Arrow Diagrams
+
+:sparkle: `Above Completed Tuesday, August 18, 2020, WK3`
+
 - [ ] Null and Delete
 - [ ] Example Allocating Arrays and Structs Statically and Dynamically
 - [ ] Soda
