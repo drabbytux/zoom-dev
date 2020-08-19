@@ -102,9 +102,9 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 - [x] Null and Delete
 - [x] Example Allocating Arrays and Structs Statically and Dynamically
+- [ ] Soda
 
 :sparkle: `Above Completed Wednesday, August 19, 2020, WK3`
 
-- [ ] Soda
 - [ ] Songs
 - [ ] Guided Reading: Solving Pointer Problems
