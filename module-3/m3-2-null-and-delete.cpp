@@ -49,7 +49,7 @@ int main()
   // Let's delete the whole lot, skipping over any NULL pointers again.
   for(int x=0; x<4; x++){
     if( pointerArray[x] != 0 ){ // check if the value of the memory address is 0.
-    
+      delete pointerArray[x];
       pointerArray[x] = NULL; // Set pointer address to NULL
     }
   }
@@ -67,6 +67,7 @@ int main()
   // IGNORE - Part deux of the memory test
   cout << testingpoint << " \n";
   cout << *testingpoint << " \n";
+
 
   return 0;
 }
