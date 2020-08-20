@@ -106,5 +106,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Wednesday, August 19, 2020, WK3`
 
-- [ ] Songs
-- [ ] Guided Reading: Solving Pointer Problems
+- [x] Songs
+- [x] Guided Reading: Solving Pointer Problems
+
+:sparkle: `Above Completed Thursday, August 20, 2020, WK3`
