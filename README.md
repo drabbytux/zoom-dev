@@ -102,11 +102,52 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 - [x] Null and Delete
 - [x] Example Allocating Arrays and Structs Statically and Dynamically
-- [ ] Soda
+- [x] Soda
 
 :sparkle: `Above Completed Wednesday, August 19, 2020, WK3`
 
 - [x] Songs
 - [x] Guided Reading: Solving Pointer Problems
 
-:sparkle: `Above Completed Thursday, August 20, 2020, WK3`
+:sparkle: `Above Completed Friday, August 21, 2020, WK3`
+> *Suffering* from allergies this past week :face_with_head_bandage:
+
+
+## Module 4 - Object Oriented Basics
+
+### Intro to Objects
+- [ ] Objects in C++
+- [ ] Objects in Java
+
+### Java Basics
+- [ ] Java Basics
+- [ ] Differences in Java and C++ So Far
+- [ ] Arrays in Java
+- [ ] Java Array Quiz
+- [ ] Java Memory Model
+- [ ] Java Memory Model Quiz
+- [ ] Clue Combat Example in Java
+- [ ] More Differences Between C++ and Java
+- [ ] Translating C++ to Java
+- [ ] Translating Java to C++
+
+### Object Behaviour
+- [ ] Constructors
+- [ ] Constructor Quiz
+- [ ] Member Functions in C++
+- [ ] Methods in Java
+- [ ] Method Madness
+- [ ] Procedural to Object-Oriented Practice
+- [ ] Overloading and Static
+- [ ] What's the Output: Static Members
+
+### References and Shallow vs Deep Copying
+- [ ] Object References
+- [ ] Lego Minifigure
+- [ ] Guided Reading: Linked Lists
+- [ ] Linked Lists in Java
+- [ ] Linked List Quiz
+- [ ] Linked List Code Reading
+- [ ] Doubly-Linked List: Diagram
+- [ ] Doubly-Linked List: Implementation
+- [ ] Shallow vs. Deep Copying
