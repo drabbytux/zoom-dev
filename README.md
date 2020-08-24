@@ -116,14 +116,18 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 ## Module 4 - Object Oriented Basics
 
 ### Intro to Objects
-- [ ] Objects in C++
-- [ ] Objects in Java
+- [x] Objects in C++
+- [x] Objects in Java
+> Reference Chapters 25, 27, 30-32. https://chortle.ccsu.edu/java5/index.html
 
 ### Java Basics
-- [ ] Java Basics
-- [ ] Differences in Java and C++ So Far
-- [ ] Arrays in Java
-- [ ] Java Array Quiz
+- [x] Java Basics
+- [x] Differences in Java and C++ So Far
+- [x] Arrays in Java
+- [x] Java Array Quiz
+
+:sparkle: `Above Completed Monday, August 24, 2020, WK4`
+
 - [ ] Java Memory Model
 - [ ] Java Memory Model Quiz
 - [ ] Clue Combat Example in Java
