@@ -128,10 +128,10 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Monday, August 24, 2020, WK4`
 
-- [ ] Java Memory Model
-- [ ] Java Memory Model Quiz
-- [ ] Clue Combat Example in Java
-- [ ] More Differences Between C++ and Java
+- [x] Java Memory Model
+- [x] Java Memory Model Quiz
+- [x] Clue Combat Example in Java
+- [x] More Differences Between C++ and Java
 - [ ] Translating C++ to Java
 - [ ] Translating Java to C++
 
