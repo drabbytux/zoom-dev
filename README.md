@@ -132,7 +132,10 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [x] Java Memory Model Quiz
 - [x] Clue Combat Example in Java
 - [x] More Differences Between C++ and Java
-- [ ] Translating C++ to Java
+- [x] Translating C++ to Java
+
+:sparkle: `Above Completed Tuesday, August 25, 2020, WK4`
+
 - [ ] Translating Java to C++
 
 ### Object Behaviour
