@@ -3,7 +3,14 @@
   // Hover to view descriptions of existing attributes.
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
-  "configurations": [ 
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BallTester",
+      "request": "launch",
+      "mainClass": "testing.BallTester",
+      "projectName": "zoom-dev_142b40a1"
+    },
     {
       "name": "(lldb) Attach",
       "type": "cppdbg",
@@ -12,18 +19,17 @@
       "processId": "${command:pickProcess}",
       "MIMode": "lldb"
     },
-
-  {
-    "name": "(lldb) Launch",
-    "type": "cppdbg",
-    "request": "launch",
-    "program": "enter program name, for example ${workspaceFolder}/a.out",
-    "args": [],
-    "stopAtEntry": false,
-    "cwd": "${workspaceFolder}",
-    "environment": [],
-    "externalConsole": false,
-    "MIMode": "lldb"
-  }
+    {
+      "name": "(lldb) Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "enter program name, for example ${workspaceFolder}/a.out",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb"
+    }
   ]
 }
