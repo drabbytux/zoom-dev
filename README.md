@@ -138,6 +138,9 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 - [ ] Translating Java to C++
 
+:sparkle: `Above Completed Wednesday, August 26, 2020, WK4`
+> :service_dog:  Teddy the dog passed away. :cry:
+
 ### Object Behaviour
 - [ ] Constructors
 - [ ] Constructor Quiz
