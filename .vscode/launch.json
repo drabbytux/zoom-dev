@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Flower",
+      "request": "launch",
+      "mainClass": "module4.Flower",
+      "projectName": "zoom-dev_142b40a1"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - BallTester",
       "request": "launch",
       "mainClass": "testing.BallTester",
