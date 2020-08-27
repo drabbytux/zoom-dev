@@ -136,23 +136,22 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Tuesday, August 25, 2020, WK4`
 
-- [ ] Translating Java to C++
+- [x] Translating Java to C++
 
 :sparkle: `Above Completed Wednesday, August 26, 2020, WK4`
 > :service_dog:  Teddy the dog passed away. :cry:
 
 ### Object Behaviour
-- [ ] Constructors
-- [ ] Constructor Quiz
-- [ ] Member Functions in C++
-- [ ] Methods in Java
-- [ ] Method Madness
-- [ ] Procedural to Object-Oriented Practice
+- [x] Constructors
+- [x] Constructor Quiz
+- [x] Member Functions in C++
+- [x] Methods in Java
+- [x] Method Madness
+- [x] Procedural to Object-Oriented Practice
+- [x] Overloading and Static
+- [x] What's the Output: Static Members
 
 :sparkle: `Above Completed Thursday, August 27, 2020, WK4`
-
-- [ ] Overloading and Static
-- [ ] What's the Output: Static Members
 
 ### References and Shallow vs Deep Copying
 - [ ] Object References
