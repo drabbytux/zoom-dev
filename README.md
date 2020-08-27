@@ -148,6 +148,9 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [ ] Methods in Java
 - [ ] Method Madness
 - [ ] Procedural to Object-Oriented Practice
+
+:sparkle: `Above Completed Thursday, August 27, 2020, WK4`
+
 - [ ] Overloading and Static
 - [ ] What's the Output: Static Members
 
