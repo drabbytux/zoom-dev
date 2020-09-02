@@ -166,3 +166,28 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [ ] Doubly-Linked List: Diagram
 - [ ] Doubly-Linked List: Implementation
 - [ ] Shallow vs. Deep Copying
+
+
+## Module 5 - Solving Problems with Classes
+
+### Goals of Class Use
+- [ ] Guided Reading: Solving Problems with Classes
+- [ ] Summary of Goals of Class Use
+- [ ] Goals of Class Use Quiz
+- [ ] Implementing Information Hiding
+- [ ] Item Check Code Reading
+- [ ] Encapsulating Linked Lists
+- [ ] Goals of Class Use: Books
+- [ ] Goals of Class Use: Encapsulated List
+
+### Interactive Storytelling Example
+- [ ] Branching Stories
+- [ ] Separated Presentation Design
+- [ ] Benefits of Separated Presentation Design
+- [ ] Branching Story Code Reading
+- [ ] Bibliography Manager
+
+### Abstract Data Types
+- [ ] Abstract Data Types
+- [ ] The List ADT
+- [ ] Branching Story to Graph ADT
