@@ -156,7 +156,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 ### References and Shallow vs Deep Copying
 - [x] Object References
 - [x] Lego Minifigure
-- [ ] Guided Reading: Linked Lists
+- [x] Guided Reading: Linked Lists
 
 :sparkle: `Above Completed Tuesday, Sept 1st, 2020, WK5`
 
