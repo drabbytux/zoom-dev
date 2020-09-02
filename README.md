@@ -154,9 +154,12 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 :sparkle: `Above Completed Thursday, August 27, 2020, WK4`
 
 ### References and Shallow vs Deep Copying
-- [ ] Object References
-- [ ] Lego Minifigure
+- [x] Object References
+- [x] Lego Minifigure
 - [ ] Guided Reading: Linked Lists
+
+:sparkle: `Above Completed Tuesday, Sept 1st, 2020, WK5`
+
 - [ ] Linked Lists in Java
 - [ ] Linked List Quiz
 - [ ] Linked List Code Reading
