@@ -160,8 +160,11 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Tuesday, Sept 1st, 2020, WK5`
 
-- [ ] Linked Lists in Java
-- [ ] Linked List Quiz
+- [x] Linked Lists in Java
+- [x] Linked List Quiz
+
+:sparkle: `Above Completed Wednesday, Sept 2st, 2020, WK5`
+
 - [ ] Linked List Code Reading
 - [ ] Doubly-Linked List: Diagram
 - [ ] Doubly-Linked List: Implementation
