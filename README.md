@@ -165,11 +165,12 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Wednesday, Sept 2st, 2020, WK5`
 
-- [ ] Linked List Code Reading
-- [ ] Doubly-Linked List: Diagram
-- [ ] Doubly-Linked List: Implementation
-- [ ] Shallow vs. Deep Copying
+- [x] Linked List Code Reading
+- [x] Doubly-Linked List: Diagram
+- [x] Doubly-Linked List: Implementation
+- [x] Shallow vs. Deep Copying
 
+:sparkle: `Above Completed Thursday, Sept 3rd, 2020, WK5`
 
 ## Module 5 - Solving Problems with Classes
 
