@@ -26,7 +26,6 @@ public class TestClass
         String s4 = new String("Where are you going?");
         String s5 = new String("Fine... Goodbye!");
 
-
         ////
         // We can manually create a linked list
         // with two nodes like this:
@@ -35,15 +34,11 @@ public class TestClass
         
         
         ListNode.printNumNodes(); // <- best way to call a static method
-
-        
         listHead.printNumNodes(); // <- prints the same thing, but should avoid
         listHead.next.printNumNodes(); // <- prints the same thing, but should avoid
-      
+    
 
-      
-        
-       
+    
         ////
         // Now we can add nodes to the beginning, end, and middle:
         
@@ -58,10 +53,18 @@ public class TestClass
         ListNode.printNumNodes();
         listHead.printListFromHere();
         
+
+        // New function tests, before we start removing nodes!
+        System.out.println( "- - - concatenate - - -" );
+        System.out.println( listHead.concatenate() );
+
+        System.out.println( "- - - reverse! - - -" );
+        listHead = listHead.reverse();
+        listHead.printListFromHere();
        
-        ////
+        //// END OF NEW
         // Let's test removing nodes from the beginning, middle, and end:
-        
+       
         listHead = listHead.removeFirstNode();
         listHead.printListFromHere();
          
@@ -76,6 +79,9 @@ public class TestClass
         
         listHead = listHead.removeNode(listHead);
         System.out.println(listHead); // <- should be null!
+     
+
+       
         
     }
     

@@ -223,4 +223,34 @@ public class ListNode
         
         return length;
     }
+
+
+    public String concatenate() {
+      ListNode currNode = this;
+      String returnStr = "";
+      while (currNode != null)
+      {
+        returnStr += currNode.str + " ";
+        currNode = currNode.next;
+      }
+
+      return returnStr;
+    } 
+
+    public ListNode reverse() {
+      ListNode currNode = this;
+      ListNode nextNode = null;
+      ListNode changedNode = null;
+      
+      while (currNode != null) {
+        nextNode = currNode.next;
+        currNode.prev = nextNode;
+        currNode.next = changedNode;
+        changedNode = currNode;
+        currNode = nextNode;
+      }
+  
+      return changedNode;
+    }
+
 }
