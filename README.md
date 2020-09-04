@@ -175,11 +175,15 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 ## Module 5 - Solving Problems with Classes
 
 ### Goals of Class Use
-- [ ] Guided Reading: Solving Problems with Classes
-- [ ] Summary of Goals of Class Use
-- [ ] Goals of Class Use Quiz
-- [ ] Implementing Information Hiding
-- [ ] Item Check Code Reading
+- [x] Guided Reading: Solving Problems with Classes
+- [x] Summary of Goals of Class Use
+- [x] Goals of Class Use Quiz
+> :-1: Read answer wrong!
+- [x] Implementing Information Hiding
+- [x] Item Check Code Reading
+
+:sparkle: `Above Completed Friday, Sept 4th, 2020, WK5`
+
 - [ ] Encapsulating Linked Lists
 - [ ] Goals of Class Use: Books
 - [ ] Goals of Class Use: Encapsulated List
