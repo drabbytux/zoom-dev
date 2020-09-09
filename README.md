@@ -191,6 +191,9 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 ### Interactive Storytelling Example
 - [ ] Branching Stories
 - [ ] Separated Presentation Design
+
+:sparkle: `Above Completed Wednesday, Sept 9th, 2020, WK6`
+
 - [ ] Benefits of Separated Presentation Design
 - [ ] Branching Story Code Reading
 - [ ] Bibliography Manager
@@ -199,3 +202,44 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [ ] Abstract Data Types
 - [ ] The List ADT
 - [ ] Branching Story to Graph ADT
+
+> REVIEW ALL PAST ITEMS :crayon:
+
+:sparkle: `Above Completed Thursday, Sept 10th, 2020, WK6`
+
+
+## Module 6 – Advanced Object-Oriented Programming
+
+### Hierarchies and Inheritance
+- [ ] Cursed Cheese
+- [ ] Class Hierarchies Part 1
+- [ ] Class Hierarchy Quiz
+- [ ] Class Hierarchies Part 2
+- [ ] Hierarchy Practice
+- [ ] Inheritance
+- [ ] Explain the Output – Hierarchies and Inheritance
+- [ ] Access Modifiers in Hierarchies
+- [ ] Implementing Hierarchy Practice
+
+### Polymorphism
+- [ ] Casting Object References
+- [ ] Object Casting Quiz
+
+:sparkle: `Above Completed Friday, Sept 11th, 2020, WK6`
+
+- [ ] Code Reading: Item Check with Inheritance
+- [ ] Polymorphism
+- [ ] Using Polymorphism with the Item Check
+
+
+### Abstract Classes and Interfaces
+- [ ] Abstract Classes and Methods
+- [ ] Abstract Classes and Methods Quiz
+- [ ] More on Abstract Methods
+- [ ] Explain the Output – Abstract Classes and Methods
+- [ ] Interfaces
+- [ ] Polymorphism with Interfaces
+- [ ] Outfit Generator
+- [ ] Strongly Recommended Reading: Advanced OOP
+
+:sparkle: `Above Completed Sunday, Sept 13th, 2020, WK7`
