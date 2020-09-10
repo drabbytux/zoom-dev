@@ -184,8 +184,8 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Friday, Sept 4th, 2020, WK5`
 
-- [ ] Encapsulating Linked Lists
-- [ ] Goals of Class Use: Books
+- [x] Encapsulating Linked Lists
+- [x] Goals of Class Use: Books
 - [ ] Goals of Class Use: Encapsulated List
 
 ### Interactive Storytelling Example
