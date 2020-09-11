@@ -189,13 +189,13 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [x] Goals of Class Use: Encapsulated List
 
 ### Interactive Storytelling Example
-- [ ] Branching Stories
-- [ ] Separated Presentation Design
+- [x] Branching Stories
+- [x] Separated Presentation Design
 
 :sparkle: `Above Completed Wednesday, Sept 9th, 2020, WK6`
 
-- [ ] Benefits of Separated Presentation Design
-- [ ] Branching Story Code Reading
+- [x] Benefits of Separated Presentation Design
+- [x] Branching Story Code Reading
 - [ ] Bibliography Manager
 
 ### Abstract Data Types
