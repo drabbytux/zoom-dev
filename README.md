@@ -201,8 +201,8 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 :sparkle: `Above Completed Sunday , Sept 13th, 2020, WK7`
 
 ### Abstract Data Types
-- [ ] Abstract Data Types
-- [ ] The List ADT
+- [x] Abstract Data Types
+- [z] The List ADT
 - [ ] Branching Story to Graph ADT
 
 > REVIEW ALL PAST ITEMS :crayon:
@@ -211,18 +211,18 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 ## Module 6 – Advanced Object-Oriented Programming
 
 ### Hierarchies and Inheritance
-- [ ] Cursed Cheese
-- [ ] Class Hierarchies Part 1
-- [ ] Class Hierarchy Quiz
-- [ ] Class Hierarchies Part 2
-- [ ] Hierarchy Practice
+- [z] Cursed Cheese
+- [z] Class Hierarchies Part 1
+- [z] Class Hierarchy Quiz
+- [x] Class Hierarchies Part 2
+- [x] Hierarchy Practice
 
 :sparkle: `Above Completed Monday, Sept 10th, 2020, WK6`
 
-- [ ] Inheritance
-- [ ] Explain the Output – Hierarchies and Inheritance
-- [ ] Access Modifiers in Hierarchies
-- [ ] Implementing Hierarchy Practice
+- [x] Inheritance
+- [x] Explain the Output – Hierarchies and Inheritance
+- [x] Access Modifiers in Hierarchies
+- [x] Implementing Hierarchy Practice
 
 ### Polymorphism
 - [ ] Casting Object References
