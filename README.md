@@ -196,7 +196,9 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 - [x] Benefits of Separated Presentation Design
 - [x] Branching Story Code Reading
-- [ ] Bibliography Manager
+- [x] Bibliography Manager
+
+:sparkle: `Above Completed Sunday , Sept 13th, 2020, WK7`
 
 ### Abstract Data Types
 - [ ] Abstract Data Types
@@ -204,8 +206,6 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [ ] Branching Story to Graph ADT
 
 > REVIEW ALL PAST ITEMS :crayon:
-
-:sparkle: `Above Completed Thursday, Sept 10th, 2020, WK6`
 
 
 ## Module 6 – Advanced Object-Oriented Programming
@@ -216,6 +216,9 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [ ] Class Hierarchy Quiz
 - [ ] Class Hierarchies Part 2
 - [ ] Hierarchy Practice
+
+:sparkle: `Above Completed Monday, Sept 10th, 2020, WK6`
+
 - [ ] Inheritance
 - [ ] Explain the Output – Hierarchies and Inheritance
 - [ ] Access Modifiers in Hierarchies
@@ -225,7 +228,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [ ] Casting Object References
 - [ ] Object Casting Quiz
 
-:sparkle: `Above Completed Friday, Sept 11th, 2020, WK6`
+:sparkle: `Above Completed Tuesday, Sept 15th, 2020, WK7`
 
 - [ ] Code Reading: Item Check with Inheritance
 - [ ] Polymorphism
@@ -242,4 +245,4 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [ ] Outfit Generator
 - [ ] Strongly Recommended Reading: Advanced OOP
 
-:sparkle: `Above Completed Sunday, Sept 13th, 2020, WK7`
+:sparkle: `Above Completed Wednesday, Sept 16th, 2020, WK7`
