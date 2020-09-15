@@ -217,23 +217,22 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [x] Class Hierarchies Part 2
 - [x] Hierarchy Practice
 
-:sparkle: `Above Completed Monday, Sept 10th, 2020, WK6`
-
 - [x] Inheritance
 - [x] Explain the Output – Hierarchies and Inheritance
 - [x] Access Modifiers in Hierarchies
+
+:sparkle: `Above Completed Monday, Sept 10th, 2020, WK6`
+
 - [x] Implementing Hierarchy Practice
 
 ### Polymorphism
 - [ ] Casting Object References
 - [ ] Object Casting Quiz
-
-:sparkle: `Above Completed Tuesday, Sept 15th, 2020, WK7`
-
 - [ ] Code Reading: Item Check with Inheritance
 - [ ] Polymorphism
 - [ ] Using Polymorphism with the Item Check
 
+:sparkle: `Above Completed Tuesday, Sept 15th, 2020, WK7`
 
 ### Abstract Classes and Interfaces
 - [ ] Abstract Classes and Methods
