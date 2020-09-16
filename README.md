@@ -226,16 +226,16 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [x] Implementing Hierarchy Practice
 
 ### Polymorphism
-- [ ] Casting Object References
-- [ ] Object Casting Quiz
-- [ ] Code Reading: Item Check with Inheritance
-- [ ] Polymorphism
-- [ ] Using Polymorphism with the Item Check
+- [x] Casting Object References
+- [x] Object Casting Quiz
+- [x] Code Reading: Item Check with Inheritance
+- [x] Polymorphism
+- [x] Using Polymorphism with the Item Check
 
 :sparkle: `Above Completed Tuesday, Sept 15th, 2020, WK7`
 
 ### Abstract Classes and Interfaces
-- [ ] Abstract Classes and Methods
+- [] Abstract Classes and Methods
 - [ ] Abstract Classes and Methods Quiz
 - [ ] More on Abstract Methods
 - [ ] Explain the Output – Abstract Classes and Methods
