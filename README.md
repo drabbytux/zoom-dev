@@ -235,13 +235,13 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 :sparkle: `Above Completed Tuesday, Sept 15th, 2020, WK7`
 
 ### Abstract Classes and Interfaces
-- [] Abstract Classes and Methods
-- [ ] Abstract Classes and Methods Quiz
-- [ ] More on Abstract Methods
-- [ ] Explain the Output – Abstract Classes and Methods
-- [ ] Interfaces
-- [ ] Polymorphism with Interfaces
+- [x] Abstract Classes and Methods
+- [x] Abstract Classes and Methods Quiz
+- [x] More on Abstract Methods
+- [x] Explain the Output – Abstract Classes and Methods
+- [x] Interfaces
+- [x] Polymorphism with Interfaces
 - [ ] Outfit Generator
-- [ ] Strongly Recommended Reading: Advanced OOP
+- [x] Strongly Recommended Reading: Advanced OOP
 
 :sparkle: `Above Completed Wednesday, Sept 16th, 2020, WK7`
