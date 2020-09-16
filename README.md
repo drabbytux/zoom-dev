@@ -202,7 +202,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 ### Abstract Data Types
 - [x] Abstract Data Types
-- [z] The List ADT
+- [x] The List ADT
 - [ ] Branching Story to Graph ADT
 
 > REVIEW ALL PAST ITEMS :crayon:
@@ -211,9 +211,9 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 ## Module 6 – Advanced Object-Oriented Programming
 
 ### Hierarchies and Inheritance
-- [z] Cursed Cheese
-- [z] Class Hierarchies Part 1
-- [z] Class Hierarchy Quiz
+- [x] Cursed Cheese
+- [x] Class Hierarchies Part 1
+- [x] Class Hierarchy Quiz
 - [x] Class Hierarchies Part 2
 - [x] Hierarchy Practice
 
