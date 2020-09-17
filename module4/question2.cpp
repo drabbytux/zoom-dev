@@ -26,12 +26,14 @@ int getAverageScore(int scoreArray[], int limit) {
 
 int main(){
     const int SCORE_ARR_LIMIT = 10;
-    int * scores = new int[SCORE_ARR_LIMIT];
+    // removed - no need for heap memory allocation | int * scores = new int[SCORE_ARR_LIMIT];
+    // added - set the all to 0 to make sure we don't get any funky results in C++
+    int scores[SCORE_ARR_LIMIT] = {0};
     for (int i=0; i < SCORE_ARR_LIMIT; i+=2 ) {
       scores[i] = i;
     }
 
   cout << "Average score: " << getAverageScore(scores, SCORE_ARR_LIMIT);
-  delete [] scores;
+  // removed - no need for heap memory removal | delete [] scores;
   return 0;
 }
