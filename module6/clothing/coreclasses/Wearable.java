@@ -1,14 +1,23 @@
-package classes;
+package coreclasses;
 
 public abstract class Wearable {
   
   
   // ** Variables - - - - - - - - - - - - - - - - - - - - - - - - - 
-    protected String fabric, colour, colourStyle, seasonalWear;
+    protected String name, fabric, colour, colourStyle, seasonalWear;
     boolean formalWear;
 
+  // ** Contructor Methods - - - - - - - - - - - - - - - - - - - - - - - - -
+  public Wearable(){
+  }
+  public Wearable(String nName){
+    name = nName;
+  }
 
-    // ** Get Methods - - - - - - - - - - - - - - - - - - - - - - - - - 
+  // ** Get Methods - - - - - - - - - - - - - - - - - - - - - - - - - 
+    public String getName(){
+      return name;
+    }
     public String getFabric(){
       return fabric;
     }
@@ -30,6 +39,10 @@ public abstract class Wearable {
 
 
   // ** Set Methods - - - - - - - - - - - - - - - - - - - - - - - - - 
+    public void setName(String nName){
+      name = nName;
+    }
+
     public void setFabric(String nFabric){
       fabric = nFabric;
     }
