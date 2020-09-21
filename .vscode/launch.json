@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Question1Recursion",
+      "request": "launch",
+      "mainClass": "module8.recursioncode.Question1Recursion",
+      "projectName": "zoom-dev_142b40a1"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - BallTester",
       "request": "launch",
       "mainClass": "testing.BallTester",
