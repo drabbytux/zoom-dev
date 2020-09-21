@@ -245,3 +245,16 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [x] Strongly Recommended Reading: Advanced OOP
 
 :sparkle: `Above Completed Wednesday, Sept 16th, 2020, WK7`
+
+## Module 8 (7 skipped) - Solving Problems With Recursion
+
+- [x] Guided Reading: Solving Problems With Recursion
+
+:sparkle: `Above Completed Sunday, Sept 20th, 2020, WK8`
+
+- [ ] Recursion in Pseudo-code
+- [ ] Recursion in Code
+- [ ] Guided Reading: Applying Recursion to Dynamic Data Structures
+- [ ] Code Reading: Recursive Binary Trees
+- [ ] Binary Trees: Structure Comparison and Node Counting
+- [ ] Congratulations!
