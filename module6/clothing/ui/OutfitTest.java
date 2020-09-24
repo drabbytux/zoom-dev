@@ -10,6 +10,7 @@ public class OutfitTest {
     OutfitGenerator og = new OutfitGenerator();
 
     og.generateSampleInventory();
+    og.generateRandomOutfit();
     
   }
 }

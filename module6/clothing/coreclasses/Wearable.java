@@ -33,16 +33,12 @@ public abstract class Wearable {
     boolean isFormalWear(){
       return formalWear;
     }
-    boolean isSeasonSpecific(){
-      return seasonalWear != "all"; // returns false if its good for all seasons
-    }
 
 
   // ** Set Methods - - - - - - - - - - - - - - - - - - - - - - - - - 
     public void setName(String nName){
       name = nName;
     }
-
     public void setFabric(String nFabric){
       fabric = nFabric;
     }

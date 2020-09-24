@@ -8,12 +8,24 @@ public class Shirt extends Wearable {
   public Shirt(){
     // Empty
   }
+
   public Shirt(String nName){
     this.setName(nName);
   }
-  
 
-  // ** Get and Set methods -------------
+  // **  Boolean responders - - - - - - - - - - 
+    public boolean isSeasonSpecific(){
+      return seasonalWear != "all"; // returns false if its good for all seasons
+    }
+    public boolean isGoodForWinter(){
+      return (seasonalWear == "winter" || seasonalWear == "all"); // returns false if its good for all seasons
+    }
+    public boolean isGoodWithDressShoes(){
+      return this.isFormalWear();
+    }
+    public boolean isPlain(){
+      return (getColourStyle() == "solid");
+    }
   
 
 }
