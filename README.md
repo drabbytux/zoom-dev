@@ -1,6 +1,81 @@
 # Zoom Dev Work
 ### David Little
 
+
+## Data
+
+### Week 1
+- [x] Lesson: Data and Relations
+- [x] Optional: Data and Tables
+- [x] Optional: The Relational Model
+- [x] Optional: Entity-Relationship Models
+- [x] SQL Data Types
+- [x] Entity-Relational Practice
+- [x] Lesson: Cardinality and Constraints
+- [x] Cardinality Practice
+- [x] Cardinality Practice Solution.pdf
+
+:sparkle: `Above Completed Friday Sept 25, 2020, WK1`
+
+- [ ] Constraints Practice
+- [ ] Constraints Practice Solution.pdf
+- [ ] Relational Model Practice
+- [ ] Optional - Constraints Extra Practice
+- [ ] Relational Model Practice Solution.pdf
+- [ ] Lesson: Data Modelling & Crow's Foot Notation
+- [ ] Data Modelling
+- [ ] Crow's Foot Notation
+- [ ] Data Modelling Practice
+- [ ] Data Modelling Practice Solution.pdf
+- [ ] Optional: Extra Data Modelling Practice
+- [ ] Going forward with data modelling
+
+### Week 2
+- [ ] ER & Crow's Foot Pairing
+- [ ] Lesson: SQL Fundamentals
+- [ ] Optional: Introduction to Relational Model & CRUD
+- [ ] Basic Querying (the R in CRUD)
+- [ ] Lesson: JOIN and Subquerying
+- [ ] Subqueries
+- [ ] Joins
+- [ ] Putting it all together
+- [ ] Optional: Extra JOIN Practice
+- [ ] Optional: Extra Subquery Practice
+
+
+### Week 3 and 4
+- [ ] Lesson: MODE
+- [ ] MODE Practice
+- [ ] OPTIONAL MODE Practice - Changing App Ownership
+- [ ] Optional: Extra MODE Practice
+- [ ] MODE Pairing
+- [ ] MODE Pairing Solutions.pdf
+- [ ] Lesson: Advanced SQL
+- [ ] WITH Practice
+- [ ] Aggregations
+- [ ] Set Operators
+- [ ] Query Practice
+- [ ] More practice
+- [ ] Modifications (The CUD in CRUD)
+- [ ] Going forward with SQL
+
+### Week 5
+...
+
+### Week 6
+...
+
+### Week 7
+...
+
+### Week 8
+...
+
+
+
+
+---
+
 ## Module 1 - Introduction
 
 ### Introduction to Problem Solving
@@ -241,7 +316,7 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 - [x] Explain the Output – Abstract Classes and Methods
 - [x] Interfaces
 - [x] Polymorphism with Interfaces
-- [ ] Outfit Generator
+- [x] Outfit Generator
 - [x] Strongly Recommended Reading: Advanced OOP
 
 :sparkle: `Above Completed Wednesday, Sept 16th, 2020, WK7`
@@ -252,9 +327,11 @@ Source: https://docs.google.com/document/d/1g_0wrM0wBdVajjgtcNEsfdUGbexQNTw_TiUu
 
 :sparkle: `Above Completed Sunday, Sept 20th, 2020, WK8`
 
-- [ ] Recursion in Pseudo-code
-- [ ] Recursion in Code
-- [ ] Guided Reading: Applying Recursion to Dynamic Data Structures
-- [ ] Code Reading: Recursive Binary Trees
-- [ ] Binary Trees: Structure Comparison and Node Counting
-- [ ] Congratulations!
+- [x] Recursion in Pseudo-code
+- [x] Recursion in Code
+- [x] Guided Reading: Applying Recursion to Dynamic Data Structures
+- [x] Code Reading: Recursive Binary Trees
+- [x] Binary Trees: Structure Comparison and Node Counting
+- [x] Congratulations!
+
+:sparkle: `Above Completed Tuesday, Sept 22th, 2020, WK9`
