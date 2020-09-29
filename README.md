@@ -17,18 +17,20 @@
 
 :sparkle: `Above Completed Friday Sept 25, 2020, WK1`
 
-- [ ] Constraints Practice
-- [ ] Constraints Practice Solution.pdf
-- [ ] Relational Model Practice
-- [ ] Optional - Constraints Extra Practice
-- [ ] Relational Model Practice Solution.pdf
-- [ ] Lesson: Data Modelling & Crow's Foot Notation
-- [ ] Data Modelling
-- [ ] Crow's Foot Notation
-- [ ] Data Modelling Practice
-- [ ] Data Modelling Practice Solution.pdf
-- [ ] Optional: Extra Data Modelling Practice
-- [ ] Going forward with data modelling
+- [x] Constraints Practice
+- [x] Constraints Practice Solution.pdf
+- [x] Relational Model Practice
+- [x] Optional - Constraints Extra Practice
+- [x] Relational Model Practice Solution.pdf
+- [x] Lesson: Data Modelling & Crow's Foot Notation
+- [x] Data Modelling
+- [x] Crow's Foot Notation
+- [x] Data Modelling Practice
+- [x] Data Modelling Practice Solution.pdf
+- [x] Optional: Extra Data Modelling Practice
+- [x] Going forward with data modelling
+
+:sparkle: `Above Completed Monday Sept 28, 2020, WK1`
 
 ### Week 2
 - [ ] ER & Crow's Foot Pairing
