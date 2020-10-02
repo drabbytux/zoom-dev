@@ -30,28 +30,34 @@
 - [x] Optional: Extra Data Modelling Practice
 - [x] Going forward with data modelling
 
-:sparkle: `Above Completed Monday Sept 28, 2020, WK1`
+:sparkle: `Above Completed Monday Sept 28, 2020, WK2`
 
 ### Week 2
-- [ ] ER & Crow's Foot Pairing
-- [ ] Lesson: SQL Fundamentals
-- [ ] Optional: Introduction to Relational Model & CRUD
-- [ ] Basic Querying (the R in CRUD)
-- [ ] Lesson: JOIN and Subquerying
-- [ ] Subqueries
-- [ ] Joins
-- [ ] Putting it all together
-- [ ] Optional: Extra JOIN Practice
-- [ ] Optional: Extra Subquery Practice
+- [x] ER & Crow's Foot Pairing
+- [x] Lesson: SQL Fundamentals
+- [x] Optional: Introduction to Relational Model & CRUD
+- [x] Basic Querying (the R in CRUD)
+- [x] Lesson: JOIN and Subquerying
+- [x] Subqueries
+- [x] Joins
+
+:sparkle: `Above Completed Thursday Oct 1, 2020, WK2`
+
+- [x] Putting it all together
+- [x] Optional: Extra JOIN Practice
+- [x] Optional: Extra Subquery Practice
 
 
 ### Week 3 and 4
-- [ ] Lesson: MODE
-- [ ] MODE Practice
-- [ ] OPTIONAL MODE Practice - Changing App Ownership
-- [ ] Optional: Extra MODE Practice
-- [ ] MODE Pairing
-- [ ] MODE Pairing Solutions.pdf
+- [x] Lesson: MODE
+- [x] MODE Practice
+- [x] OPTIONAL MODE Practice - Changing App Ownership
+- [x] Optional: Extra MODE Practice
+- [x] MODE Pairing
+- [x] MODE Pairing Solutions.pdf
+
+:sparkle: `Above Completed Friday Oct 2, 2020, WK2`
+
 - [ ] Lesson: Advanced SQL
 - [ ] WITH Practice
 - [ ] Aggregations
