@@ -58,14 +58,14 @@
 
 :sparkle: `Above Completed Friday Oct 2, 2020, WK2`
 
-- [ ] Lesson: Advanced SQL
-- [ ] WITH Practice
-- [ ] Aggregations
-- [ ] Set Operators
-- [ ] Query Practice
-- [ ] More practice
-- [ ] Modifications (The CUD in CRUD)
-- [ ] Going forward with SQL
+- [x] Lesson: Advanced SQL
+- [x] WITH Practice
+- [x] Aggregations
+- [x] Set Operators
+- [x] Query Practice
+- [x] More practice
+- [x] Modifications (The CUD in CRUD)
+- [x] Going forward with SQL
 
 ### Week 5
 ...
