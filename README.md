@@ -67,17 +67,7 @@
 - [x] Modifications (The CUD in CRUD)
 - [x] Going forward with SQL
 
-### Week 5
-...
-
-### Week 6
-...
-
-### Week 7
-...
-
-### Week 8
-...
+:sparkle: `Above Completed Tuesday Oct 6, 2020, WK3`
 
 
 
