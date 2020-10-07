@@ -3,6 +3,7 @@
 ## Strings
 "string".upcase
 > Uppercase text
+
 "string".downcase
 > Lowercase text
 
