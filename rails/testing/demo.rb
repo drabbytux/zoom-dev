@@ -1,2 +1,6 @@
 puts "What's your name?"
-name = gets
+input = gets.chomp
+
+ puts "Welcome, #{input}!"
+
+p input
