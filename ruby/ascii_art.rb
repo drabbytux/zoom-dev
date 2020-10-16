@@ -6,8 +6,12 @@
 
 def output(original_number, index=1)
   return if index > original_number
+
+  space = 1..original_number - index
+  space.each {|s| print "\s"}
+  
   i = 1..index
-  i.each {|n| print "*" }
+  i.each { |n| print "*" }
   print "\n"
   output(original_number, index+1)
 end
